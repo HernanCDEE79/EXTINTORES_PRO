@@ -2,7 +2,7 @@
 // ExtintoresPRO - Service Worker v1.0
 // ═══════════════════════════════════════════════════════════════
 
-const CACHE_VERSION = 'extintorespro-v1.1';
+const CACHE_VERSION = 'extintorespro-v1.2';
 const CACHE_NAME = `extintorespro-cache-${CACHE_VERSION}`;
 
 // Archivos a cachear (recursos estáticos)
